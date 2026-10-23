@@ -1,1 +1,48 @@
+# 2. Cloud Deployment Models
 
+## Definition
+
+### Public Cloud
+
+Infrastructure is **shared among customers** and **operated / managed by a cloud provider**.
+
+### Private Cloud
+
+Cloud infrastructure is **dedicated to one organization**.
+
+### Hybrid Cloud
+
+A **combination of public and private environments**.
+
+---
+
+## Why?
+
+Organizations choose different cloud models based on:
+
+- **Control**
+- **Security**
+- **Compliance**
+- **Flexibility**
+
+---
+
+## Example
+
+A company keeps sensitive databases in its **private environment** but runs its web application in **Azure**.
+
+→ **Hybrid Cloud**.
+
+---
+
+## When to Use
+
+- **Public Cloud** → General workloads and **scalability**.
+- **Private Cloud** → **Strict control, security, and compliance requirements**.
+- **Hybrid Cloud** → When you need both **public and private (on-premises) infrastructure**.
+
+---
+
+## ⭐ Exam Clue
+
+**Combination of on-premises + Azure = Hybrid Cloud**
