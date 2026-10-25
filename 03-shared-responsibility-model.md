@@ -1,4 +1,3 @@
-
 # 3. Shared Responsibility Model
 
 ## Definition
