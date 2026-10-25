@@ -1,4 +1,3 @@
-
 # 2. Cloud Deployment Models
 
 ## Definition
